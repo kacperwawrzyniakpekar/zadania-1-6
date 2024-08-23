@@ -75,7 +75,6 @@ x*x=x2
         <a href="https://kacperwawrzyniak-pekar.github.io/formularz/">Link do strony zawierającej formularz</a><br>
         <a href="https://kacperwawrzyniak-pekar.github.io/walidacja/">Link do walidacji</a><br>
     </nav>
-<!DOCTYPE html>
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
@@ -152,7 +151,6 @@ x*x=x2
 
 </body>
 </html>
-<!DOCTYPE html>
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
@@ -269,6 +267,3 @@ x*x=x2
         <a href="https://kacperwawrzyniak-pekar.github.io/walidacja/">Link do walidacji</a><br>
 		<img src="html.jpg" alt="Grafika związana z pocztą" width="300">
     </nav>
-
-</body>
-</html>
