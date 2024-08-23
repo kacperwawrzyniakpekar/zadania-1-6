@@ -61,18 +61,11 @@
         <p><font color="blue" size="5" face="Arial">Imię i nazwisko: Kacper Wawrzyniak-Pekar</font></p>
         <p><font color="purple" size="4" face="'Times New Roman'">Ulubiony aktor: Tomasz Karolak</font></p>
         <p><font color="black" size="3" face="Arial"><i>Data urodzenia: 15 marca 2000</i></font></p>
-    </center>
-     <div> </div><style="position: left>
+    </center> 
 H2SO4
-
-x2 = x2
-
-</div>
+x*x=x2
 
 </body>			
-    <div id="start">
-        <p>Tu zaczyna się tekst...</p>
-    </div>
     <div id="srodek" style="margin-top: 400px;">
         <p>Tu jest środek tekstu...</p>
 		   <nav>
