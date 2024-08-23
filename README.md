@@ -12,24 +12,6 @@
         }
     </style>
 </head>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dane ucznia</title>
-</head>
-<body>
-    <p align="left"><b>Adres: 80-188</b> <i>Gdańsk</i>, <u>Jana z Kolana</u> <strike>101/34</strike></p>
-    <center>
-        <p><font color="blue" size="5" face="Arial">Imię i nazwisko: Jan Kowalski</font></p>
-        <p><font color="purple" size="4" face="'Times New Roman'">Ulubiony aktor: Tomasz Karolak</font></p>
-        <p><font color="black" size="3" face="Arial"><i>Data urodzenia: 15 marca 2000</i></font></p>
-    </center>
-    <div style="position: fixed; bottom: 0; left: 0;">
-        <p><b>H<sub>2</sub>SO<sub>4</sub></b></p>
-        <p><b>x<sup>2</sup> = x<sup>2</sup></b></p>
-    </div>
-
-</body>	
 <body>
     <nav>
         <a href="https://kacperwawrzyniak-pekar.github.io/poczta/">Link do poczty</a><br>
@@ -68,6 +50,24 @@
     <p><font color="orange" size="2" face="Courier New">:( - mały smutek twarz</font></p><br>
     <p><font color="pink" size="7" face="Times New Roman">:o - zdziwienie </font></p><br>
 </body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dane ucznia</title>
+</head>
+<body>
+    <p align="left"><b>Adres: 80-188</b> <i>Gdańsk</i>, <u>Jana z Kolana</u> <strike>101/34</strike></p>
+    <center>
+        <p><font color="blue" size="5" face="Arial">Imię i nazwisko: Jan Kowalski</font></p>
+        <p><font color="purple" size="4" face="'Times New Roman'">Ulubiony aktor: Tomasz Karolak</font></p>
+        <p><font color="black" size="3" face="Arial"><i>Data urodzenia: 15 marca 2000</i></font></p>
+    </center>
+    <div style="position: fixed; bottom: 0; left: 0;">
+        <p><b>H<sub>2</sub>SO<sub>4</sub></b></p>
+        <p><b>x<sup>2</sup> = x<sup>2</sup></b></p>
+    </div>
+
+</body>			
     <div id="start">
         <p>Tu zaczyna się tekst...</p>
     </div>
