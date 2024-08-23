@@ -64,7 +64,6 @@
     </center> 
 H2SO4 <br/>
 x*x=x2
-
 </body>			
     <div id="srodek" style="margin-top: 400px;">
         <p>Tu jest środek tekstu...</p>
@@ -77,6 +76,84 @@ x*x=x2
         <a href="https://kacperwawrzyniak-pekar.github.io/formularz/">Link do strony zawierającej formularz</a><br>
         <a href="https://kacperwawrzyniak-pekar.github.io/walidacja/">Link do walidacji</a><br>
     </nav>
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Jan Kowalski">
+    <meta name="description" content="Strona z dowcipami ucznia">
+    <title>Strona z dowcipami - Zadanie 3</title>
+    <style>
+        body {
+            background-color: gray;
+        }
+        hr.line1 {
+            border: 3px solid red;
+            width: 80%;
+        }
+        hr.line2 {
+            border: 2px dashed blue;
+            width: 50%;
+        }
+        hr.line3 {
+            border: 1px solid black;
+            width: 30%;
+        }
+    </style>
+</head>
+<body>
+<h1 align="right">Dowcipy o babie</h1>
+<fieldset>
+    <legend> Baba w sklepie</legend>
+    Baba wchodzi do sklepu i pyta:<br>
+    - Czy jest chleb?<br>
+    Sprzedawca odpowiada:<br>
+    - Jest, ale tylko suchy.<br>
+    Baba na to:<br>
+    - A co, mokrego nie ma? 
+    <img src="obraz1.jpg" align="right" border="22" width="112" height="115">
+    <br> 
+    <img src="obraz2.jpg" align="left" border="22" width="112" height="115">
+</fieldset>
+
+<hr class="line1">
+<h2 align="center">Dowcipy o Jasiu</h2>
+<fieldset>
+    <legend>Jasiu i szkoła</legend>
+    Nauczycielka pyta Jasia:<br>
+    - Jasiu, co chciałbyś robić, jak dorośniesz?<br>
+    Jasiu odpowiada:<br>
+    - Chciałbym być miliarderem jak mój tata!<br>
+    Nauczycielka pyta:<br>
+    - Twój tata jest miliarderem?<br>
+    Jasiu na to:<br>
+    - Nie, ale też chciałby! 
+    <img src="obraz3.jpg" align="right" border="22" width="112" height="115">
+    <br> 
+    <img src="obraz4.jpg" align="left" border="22" width="112" height="115">
+</fieldset>
+
+<hr class="line2">
+<h3 align="left">Dowcipy o informatykach</h3>
+<fieldset>
+    <legend>Programista i żarówka</legend>
+    Ilu programistów potrzeba, żeby wymienić żarówkę?<br>
+    Żadnego, to problem sprzętowy! 
+    <img src="obraz5.jpg" align="right" border="22" width="112" height="115">
+</fieldset>
+
+<hr class="line3">
+<p>
+    Wawrzyniak-Pekar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kacper
+
+</p>
+<p>
+    &copy; &reg; &trade; &euro; &yen; &pound; &sect;
+</p>
+
+</body>
+</html>
+
     </div>
     <div id="koniec" style="margin-top: 400px;">
         <p>Tu kończy się tekst...</p>
