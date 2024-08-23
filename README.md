@@ -23,7 +23,7 @@
         <a href="https://kacperwawrzyniak-pekar.github.io/formularz/">Link do strony zawierającej formularz</a><br>
         <a href="https://kacperwawrzyniak-pekar.github.io/walidacja/">Link do walidacji</a><br>
     </nav>
-	<html lang="pl">
+    <html lang="pl">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -75,11 +75,11 @@ x*x=x2
         <a href="https://kacperwawrzyniak-pekar.github.io/formularz/">Link do strony zawierającej formularz</a><br>
         <a href="https://kacperwawrzyniak-pekar.github.io/walidacja/">Link do walidacji</a><br>
     </nav>
-<!DOCTYPE html>
+1. 2.
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
-    <meta name="author" content="Jan Kowalski">
+    <meta name="author" content="Kacper Wawrzyniak-Pekar">
     <meta name="description" content="Strona z dowcipami ucznia">
     <title>Strona z dowcipami - Zadanie 3</title>
     <style>
@@ -139,127 +139,24 @@ x*x=x2
     Ilu programistów potrzeba, żeby wymienić żarówkę?<br>
     Żadnego, to problem sprzętowy! 
     <img src="obraz5.jpg" align="right" border="22" width="112" height="115">
+    <br> 
+    <img src="obraz6.jpg" align="left" border="22" width="112" height="115">
 </fieldset>
 
 <hr class="line3">
-<p>
-    Wawrzyniak-Pekar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kacper
-
-</p>
-<p>
-    &copy; &reg; &trade; &euro; &yen; &pound; &sect;
-</p>
-
-</body>
-</html>
-<!DOCTYPE html>
-<html lang="pl">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Wyliczenia i Numerowania Informatyczne</title>
-    <style>
-        ul.square {
-            list-style-type: square;
-        }
-        ul.circle {
-            list-style-type: circle;
-        }
-        ul.disc {
-            list-style-type: disc;
-        }
-        ol.lower-alpha {
-            list-style-type: lower-alpha;
-        }
-        ol.upper-alpha {
-            list-style-type: upper-alpha;
-        }
-        ol.lower-roman {
-            list-style-type: lower-roman;
-        }
-    </style>
-</head>
-<body>
-    <h1>Poniżej są trzy wyliczenia z różnymi znakami wyliczenia</h1>
-    <h1>Ty zaproponuj swoje, związane z informatyką</h1>
-    <ul class="square">
-        <li>Kwadrat – Bit</li>
-        <li>Kwadrat – Bajt</li>
-        <li>Kwadrat – Piksel</li>
-    </ul>
-    <ul class="circle">
-        <li>Koło – Procesor</li>
-        <li>Koło – Pamięć RAM</li>
-        <li>Koło – Dysk SSD</li>
-    </ul>
-    <ul class="disc">
-        <li>Okrąg – Ethernet</li>
-        <li>Okrąg – Wi-Fi</li>
-        <li>Okrąg – Bluetooth</li>
-    </ul>
-    <br><br><br>
-    <h2>Poniżej są trzy numerowania z różnymi znakami numerowania</h2>
-    <h2>Ty zaproponuj swoje, związane z informatyką</h2>
-    <ol class="lower-alpha">
-        <li>Zmienne</li>
-        <li>Stałe</li>
-        <li>Funkcje</li>
-    </ol>
-    <ol class="upper-alpha">
-        <li>Algorytmy</li>
-        <li>Struktury danych</li>
-        <li>Bazy danych</li>
-    </ol>
-    <ol class="lower-roman">
-        <li>System operacyjny</li>
-        <li>Sterowniki</li>
-        <li>Aplikacje</li>
-    </ol>
-    <br><br><br>
-    <h3>Poniżej będą trzy poziomy numerowania/wyliczenia z różnymi rodzajami numerowania/wyliczenia</h3>
-    <h3>Ty zaproponuj swoje, związane z informatyką</h3>
-    <ol>
-        <li>Sprzęt komputerowy
-            <ol>
-                <li>Jednostka centralna
-                    <ol>
-                        <li>Procesor</li>
-                        <li>Pamięć RAM</li>
-                        <li>Płyta główna</li>
-                    </ol>
-                </li>
-                <li>Peryferia
-                    <ol>
-                        <li>Monitor</li>
-                        <li>Klawiatura</li>
-                        <li>Mysz</li>
-                    </ol>
-                </li>
-            </ol>
-        </li>
-        <li>Oprogramowanie
-            <ol>
-                <li>System operacyjny
-                    <ol>
-                        <li>Windows</li>
-                        <li>Linux</li>
-                        <li>macOS</li>
-                    </ol>
-                </li>
-                <li>Aplikacje
-                    <ol>
-                        <li>Pakiet biurowy</li>
-                        <li>Przeglądarka internetowa</li>
-                        <li>Program graficzny</li>
-                    </ol>
-                </li>
-            </ol>
-        </li>
-    </ol>
-</body>
-</html>
-
-   </div>
+<h4 align="center">Dowcipy o policjantach</h4>
+<fieldset>
+    <legend>Policjant i prędkość</legend>
+    Policjant zatrzymuje kierowcę i mówi:<br>
+    - Przekroczył pan dozwoloną prędkość!<br>
+    Kierowca na to:<br>
+    - Ależ panie władzo, ja tylko sprawdzałem, czy silnik jeszcze działa! 
+    <img src="obraz7.jpg" align="right" border="22" width="112" height="115">
+    <br> 
+    <img src="obraz8.jpg" align="left" border="22" width="112" height="115">
+</fieldset>
+<hr>
+</div>
     <div id="koniec" style="margin-top: 400px;">
     </div>
     <nav>
