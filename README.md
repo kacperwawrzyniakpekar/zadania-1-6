@@ -62,10 +62,12 @@
         <p><font color="purple" size="4" face="'Times New Roman'">Ulubiony aktor: Tomasz Karolak</font></p>
         <p><font color="black" size="3" face="Arial"><i>Data urodzenia: 15 marca 2000</i></font></p>
     </center>
-    <div <style="position: left>
-        <p><b>H<sub>2</sub>SO<sub>4</sub></b></p>
-        <p><b>x<sup>2</sup> = x<sup>2</sup></b></p>
-    </div>
+     <div> </div><style="position: left>
+H2SO4
+
+x2 = x2
+
+</div>
 
 </body>			
     <div id="start">
