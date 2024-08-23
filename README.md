@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
@@ -10,11 +9,6 @@
         }
         nav, div {
             background-color: inherit;
-        }
-        .fixed-info {
-            position: fixed;
-            bottom: 50px;
-            left: 0;
         }
         p {
             text-align: left;
@@ -32,7 +26,6 @@
         <a href="https://kacperwawrzyniak-pekar.github.io/formularz/">Link do strony zawierającej formularz</a><br>
         <a href="https://kacperwawrzyniak-pekar.github.io/walidacja/">Link do walidacji</a><br>
     </nav>
-
     <p><font color="blue" size="1" face="Arial">Kacper</font></p><br>
     <p><font color="green" size="2" face="Arial">Kacper</font></p><br>
     <p><font color="orange" size="3" face="Arial">Kacper</font></p><br>
@@ -53,14 +46,13 @@
     <p><font color="orange" size="2" face="Courier New">:( - mały smutek twarz</font></p><br>
     <p><font color="pink" size="7" face="Times New Roman">:o - zdziwienie </font></p><br>
 
-    <p align="left"><b>Adres: 80-188</b> <i>Gdańsk</i>, <u>Jana z Kolana</u> <strike>101/34</strike></p>
+    <p><b>Adres: 80-188</b> <i>Gdańsk</i>, <u>Jana z Kolana</u> <strike>101/34</strike></p>
     <center>
         <p><font color="blue" size="5" face="Arial">Imię i nazwisko: Kacper Wawrzyniak-Pekar</font></p>
         <p><font color="purple" size="4" face="'Times New Roman'">Ulubiony aktor: Tomasz Karolak</font></p>
         <p><font color="black" size="3" face="Arial"><i>Data urodzenia: 15 marca 2000</i></font></p>
     </center>
-    
-    <div class="fixed-info">
+    <div style="position: fixed; bottom: 0; left: 0;">
         <p><b>H<sub>2</sub>SO<sub>4</sub></b></p>
         <p><b>x<sup>2</sup> = x<sup>2</sup></b></p>
     </div>
@@ -79,11 +71,11 @@
         <a href="plik1.zip">Link do ściągania pliku</a><br>
         <a href="#start">Link początek tekstu</a><br>
         <a href="#srodek">Link do środka tekstu</a><br>
+        <a href="#koniec">Link do końca tekstu</a><br>
         <a href="https://kacperwawrzyniak-pekar.github.io/tabela/">Link do strony zawierającej tabelę</a><br>
         <a href="https://kacperwawrzyniak-pekar.github.io/formularz/">Link do strony zawierającej formularz</a><br>
         <a href="https://kacperwawrzyniak-pekar.github.io/walidacja/">Link do walidacji</a><br>
-		<img src="html.jpg" alt="Grafika związana z pocztą" width="300">
+        <img src="html.jpg" alt="Grafika związana z pocztą" width="300">
     </nav>
-
 </body>
 </html>
