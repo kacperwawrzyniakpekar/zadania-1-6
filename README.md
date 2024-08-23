@@ -58,7 +58,7 @@
 <body>
     <p align="left"><b>Adres: 80-188</b> <i>Gdańsk</i>, <u>Jana z Kolana</u> <strike>101/34</strike></p>
     <center>
-        <p><font color="blue" size="5" face="Arial">Imię i nazwisko: Jan Kowalski</font></p>
+        <p><font color="blue" size="5" face="Arial">Imię i nazwisko: Kacper Wawrzyniak-Pekar</font></p>
         <p><font color="purple" size="4" face="'Times New Roman'">Ulubiony aktor: Tomasz Karolak</font></p>
         <p><font color="black" size="3" face="Arial"><i>Data urodzenia: 15 marca 2000</i></font></p>
     </center>
