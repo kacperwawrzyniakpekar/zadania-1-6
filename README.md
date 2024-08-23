@@ -66,8 +66,7 @@ H2SO4 <br/>
 x*x=x2
 </body>			
     <div id="srodek" style="margin-top: 400px;">
-        <p>Tu jest środek tekstu...</p>
-		   <nav>
+    <nav>
         <a href="https://kacperwawrzyniak-pekar.github.io/poczta/">Link do poczty</a><br>
         <a href="plik1.zip">Link do ściągania pliku</a><br>
         <a href="#start">Link początek tekstu</a><br>
@@ -153,10 +152,115 @@ x*x=x2
 
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wyliczenia i Numerowania Informatyczne</title>
+    <style>
+        ul.square {
+            list-style-type: square;
+        }
+        ul.circle {
+            list-style-type: circle;
+        }
+        ul.disc {
+            list-style-type: disc;
+        }
+        ol.lower-alpha {
+            list-style-type: lower-alpha;
+        }
+        ol.upper-alpha {
+            list-style-type: upper-alpha;
+        }
+        ol.lower-roman {
+            list-style-type: lower-roman;
+        }
+    </style>
+</head>
+<body>
+    <h1>Poniżej są trzy wyliczenia z różnymi znakami wyliczenia</h1>
+    <h1>Ty zaproponuj swoje, związane z informatyką</h1>
+    <ul class="square">
+        <li>Kwadrat – Bit</li>
+        <li>Kwadrat – Bajt</li>
+        <li>Kwadrat – Piksel</li>
+    </ul>
+    <ul class="circle">
+        <li>Koło – Procesor</li>
+        <li>Koło – Pamięć RAM</li>
+        <li>Koło – Dysk SSD</li>
+    </ul>
+    <ul class="disc">
+        <li>Okrąg – Ethernet</li>
+        <li>Okrąg – Wi-Fi</li>
+        <li>Okrąg – Bluetooth</li>
+    </ul>
+    <br><br><br>
+    <h2>Poniżej są trzy numerowania z różnymi znakami numerowania</h2>
+    <h2>Ty zaproponuj swoje, związane z informatyką</h2>
+    <ol class="lower-alpha">
+        <li>Zmienne</li>
+        <li>Stałe</li>
+        <li>Funkcje</li>
+    </ol>
+    <ol class="upper-alpha">
+        <li>Algorytmy</li>
+        <li>Struktury danych</li>
+        <li>Bazy danych</li>
+    </ol>
+    <ol class="lower-roman">
+        <li>System operacyjny</li>
+        <li>Sterowniki</li>
+        <li>Aplikacje</li>
+    </ol>
+    <br><br><br>
+    <h3>Poniżej będą trzy poziomy numerowania/wyliczenia z różnymi rodzajami numerowania/wyliczenia</h3>
+    <h3>Ty zaproponuj swoje, związane z informatyką</h3>
+    <ol>
+        <li>Sprzęt komputerowy
+            <ol>
+                <li>Jednostka centralna
+                    <ol>
+                        <li>Procesor</li>
+                        <li>Pamięć RAM</li>
+                        <li>Płyta główna</li>
+                    </ol>
+                </li>
+                <li>Peryferia
+                    <ol>
+                        <li>Monitor</li>
+                        <li>Klawiatura</li>
+                        <li>Mysz</li>
+                    </ol>
+                </li>
+            </ol>
+        </li>
+        <li>Oprogramowanie
+            <ol>
+                <li>System operacyjny
+                    <ol>
+                        <li>Windows</li>
+                        <li>Linux</li>
+                        <li>macOS</li>
+                    </ol>
+                </li>
+                <li>Aplikacje
+                    <ol>
+                        <li>Pakiet biurowy</li>
+                        <li>Przeglądarka internetowa</li>
+                        <li>Program graficzny</li>
+                    </ol>
+                </li>
+            </ol>
+        </li>
+    </ol>
+</body>
+</html>
 
-    </div>
+   </div>
     <div id="koniec" style="margin-top: 400px;">
-        <p>Tu kończy się tekst...</p>
     </div>
     <nav>
         <a href="https://kacperwawrzyniak-pekar.github.io/poczta/">Link do poczty</a><br>
