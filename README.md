@@ -268,5 +268,6 @@ x*x=x2
         <a href="https://kacperwawrzyniakpekar.github.io/tabela/">Link do strony zawierającej tabelę</a><br>
         <a href="https://kacperwawrzyniakpekar.github.io/Formularz./">Link do strony zawierającej formularz</a><br>
         <a href="https://kacperwawrzyniakpekar.github.io/walidacja./">Link do walidacji</a><br>
-		<img src="html.png" alt="Grafika związana z pocztą" width="300">
+	   <p>Kacper Wawrzyniak - pekar </p>
+		<img src="html.png" alt="Grafika związana z pocztą" width="300"> <p> Walidacja to proces, w którym narzędzie (walidator) sprawdza poprawność kodu pod kątem błędów składniowych. Testuje również zgodność ze specyfikacją użytego języka</p>
     </nav>
