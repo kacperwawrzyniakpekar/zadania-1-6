@@ -59,8 +59,7 @@
 H2SO4 <br/>
 x*x=x2
 </body>			
-    <div id="srodek" style="margin-top: 400px;">
-    <nav>
+   <nav>
         <a href="https://kacperwawrzyniak-pekar.github.io/poczta/">Link do poczty</a><br>
         <a href="plik1.zip">Link do ściągania pliku</a><br>
         <a href="#start">Link początek tekstu</a><br>
