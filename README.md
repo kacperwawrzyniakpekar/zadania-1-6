@@ -114,7 +114,7 @@ x*x=x2
 </div>
     <br> 
     <div style="border: 22px solid black; display: inline-block; float: left;">
-    <img src="obraz2.gif" width="112" height="115">
+    <img src="obraz2.gif" width="112" height="110">
 </div>
 </fieldset>
 
