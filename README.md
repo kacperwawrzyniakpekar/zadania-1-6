@@ -268,5 +268,5 @@ x*x=x2
         <a href="https://kacperwawrzyniakpekar.github.io/tabela/">Link do strony zawierającej tabelę</a><br>
         <a href="https://kacperwawrzyniakpekar.github.io/Formularz./">Link do strony zawierającej formularz</a><br>
         <a href="https://kacperwawrzyniakpekar.github.io/walidacja./">Link do walidacji</a><br>
-		<img src="html.jpg" alt="Grafika związana z pocztą" width="300">
+		<img src="html.png" alt="Grafika związana z pocztą" width="300">
     </nav>
