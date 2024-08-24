@@ -14,14 +14,14 @@
 </head>
 <body>
     <nav>
-        <a href="https://kacperwawrzyniak-pekar.github.io/poczta/">Link do poczty</a><br>
+        <a href="https://kacperwawrzyniakpekar.github.io/poczta/">Link do poczty</a><br>
         <a href="plik1.zip">Link do ściągania pliku</a><br>
         <a href="#start">Link początek tekstu</a><br>
         <a href="#srodek">Link do środka tekstu</a><br>
         <a href="#koniec">Link do końca tekstu</a><br>
-        <a href="https://kacperwawrzyniak-pekar.github.io/tabela/">Link do strony zawierającej tabelę</a><br>
-        <a href="https://kacperwawrzyniak-pekar.github.io/formularz/">Link do strony zawierającej formularz</a><br>
-        <a href="https://kacperwawrzyniak-pekar.github.io/walidacja/">Link do walidacji</a>
+        <a href="https://kacperwawrzyniakpekar.github.io/tabela/">Link do strony zawierającej tabelę</a><br>
+        <a href="https://kacperwawrzyniakpekar.github.io/Formularz./">Link do strony zawierającej formularz</a><br>
+        <a href="https://kacperwawrzyniakpekar.github.io/walidacja./">Link do walidacji</a>
     </nav>
 <body>
     <p align="right"><font color="blue" size="1" face="Arial">Kacper</font></p><br>
@@ -60,13 +60,13 @@ H2SO4 <br/>
 x*x=x2
 </body>			
    <nav>
-        <a href="https://kacperwawrzyniak-pekar.github.io/poczta/">Link do poczty</a><br>
+        <a href="https://kacperwawrzyniakpekar.github.io/poczta/">Link do poczty</a><br>
         <a href="plik1.zip">Link do ściągania pliku</a><br>
         <a href="#start">Link początek tekstu</a><br>
         <a href="#koniec">Link do końca tekstu</a><br>
-        <a href="https://kacperwawrzyniak-pekar.github.io/tabela/">Link do strony zawierającej tabelę</a><br>
-        <a href="https://kacperwawrzyniak-pekar.github.io/formularz/">Link do strony zawierającej formularz</a><br>
-        <a href="https://kacperwawrzyniak-pekar.github.io/walidacja/">Link do walidacji</a>
+        <a href="https://kacperwawrzyniakpekar.github.io/tabela/">Link do strony zawierającej tabelę</a><br>
+        <a href="https://kacperwawrzyniakpekar.github.io/Formularz./">Link do strony zawierającej formularz</a><br>
+        <a href="https://kacperwawrzyniakpekar.github.io/walidacja.//">Link do walidacji</a>
     </nav>
 <html lang="pl">
 <head>
@@ -261,12 +261,12 @@ x*x=x2
 </html>
 <br/>
    <nav>
-        <a href="https://kacperwawrzyniak-pekar.github.io/poczta/">Link do poczty</a><br>
+        <a href="https://kacperwawrzyniakpekar.github.io/poczta/">Link do poczty</a><br>
         <a href="plik1.zip">Link do ściągania pliku</a><br>
         <a href="#start">Link początek tekstu</a><br>
         <a href="#srodek">Link do środka tekstu</a><br>
-        <a href="https://kacperwawrzyniak-pekar.github.io/tabela/">Link do strony zawierającej tabelę</a><br>
-        <a href="https://kacperwawrzyniak-pekar.github.io/formularz/">Link do strony zawierającej formularz</a><br>
-        <a href="https://kacperwawrzyniak-pekar.github.io/walidacja/">Link do walidacji</a><br>
+        <a href="https://kacperwawrzyniakpekar.github.io/tabela/">Link do strony zawierającej tabelę</a><br>
+        <a href="https://kacperwawrzyniakpekar.github.io/Formularz./">Link do strony zawierającej formularz</a><br>
+        <a href="https://kacperwawrzyniakpekar.github.io/walidacja./">Link do walidacji</a><br>
 		<img src="html.jpg" alt="Grafika związana z pocztą" width="300">
     </nav>
