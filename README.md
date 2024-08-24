@@ -21,7 +21,7 @@
         <a href="#koniec">Link do końca tekstu</a><br>
         <a href="https://kacperwawrzyniak-pekar.github.io/tabela/">Link do strony zawierającej tabelę</a><br>
         <a href="https://kacperwawrzyniak-pekar.github.io/formularz/">Link do strony zawierającej formularz</a><br>
-        <a href="https://kacperwawrzyniak-pekar.github.io/walidacja/">Link do walidacji</a><br>
+        <a href="https://kacperwawrzyniak-pekar.github.io/walidacja/">Link do walidacji</a>
     </nav>
 	<html lang="pl">
 <head>
