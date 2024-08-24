@@ -23,12 +23,6 @@
         <a href="https://kacperwawrzyniak-pekar.github.io/formularz/">Link do strony zawierającej formularz</a><br>
         <a href="https://kacperwawrzyniak-pekar.github.io/walidacja/">Link do walidacji</a>
     </nav>
-	<html lang="pl">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dokument HTML</title>
-</head>
 <body>
     <p align="right"><font color="blue" size="1" face="Arial">Kacper</font></p><br>
     <p align="right"><font color="green" size="2" face="Arial">Kacper</font></p><br>
