@@ -109,9 +109,13 @@ x*x=x2
     - Jest, ale tylko suchy.<br>
     Baba na to:<br>
     - A co, mokrego nie ma? 
-    <img src="obraz1.gif" align="right" border="22" width="112" height="115">
+    <div style="border: 22px solid black; display: inline-block; float: right;">
+    <img src="obraz1.gif" width="112" height="115">
+</div>
     <br> 
-    <img src="obraz2.gif" align="left" border="22" width="112" height="115">
+    <div style="border: 22px solid black; display: inline-block; float: left;">
+    <img src="obraz2.gif" width="112" height="115">
+</div>
 </fieldset>
 
 <hr class="line1">
@@ -126,9 +130,13 @@ x*x=x2
     - Twój tata jest miliarderem?<br>
     Jasiu na to:<br>
     - Nie, ale też chciałby! 
-    <img src="obraz3.gif" align="right" border="22" width="112" height="115">
+    <div style="border: 22px solid black; display: inline-block; float: right;">
+    <img src="obraz3.gif" width="112" height="115">
+</div>
     <br> 
-    <img src="obraz4.gif" align="left" border="22" width="112" height="115">
+    <div style="border: 22px solid black; display: inline-block; float: left;">
+    <img src="obraz4.gif" width="112" height="115">
+</div>
 </fieldset>
 
 <hr class="line2">
@@ -137,7 +145,9 @@ x*x=x2
     <legend>Programista i żarówka</legend>
     Ilu programistów potrzeba, żeby wymienić żarówkę?<br>
     Żadnego, to problem sprzętowy! 
-    <img src="obraz5.gif" align="right" border="22" width="112" height="115">
+    <div style="border: 22px solid black; display: inline-block; float: right;">
+    <img src="obraz5.gif" width="112" height="115">
+</div>
 </fieldset>
 
 <hr class="line3">
